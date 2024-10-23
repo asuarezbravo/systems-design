@@ -36,4 +36,4 @@ Managing transactions across distributed systems is challenging, but techniques 
 
 ---
 
-[Next: Module 5 Introduction](./module_5/module_5_intro.md)
+[Next: Module 5 Introduction](../module_5/module_5_intro.md)

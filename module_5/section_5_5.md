@@ -52,4 +52,4 @@ Query optimization is a critical aspect of improving the performance and scalabi
 
 ---
 
-[Next: Module 6 Introduction](./module_6/module_6_intro.md)
+[Next: Module 6 Introduction](../module_6/module_6_intro.md)
