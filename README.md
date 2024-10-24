@@ -92,7 +92,7 @@
 - [13.4. Rate Limiting and Throttling](./module_13/section_13_4.md)
 - [13.5. API Gateway Patterns](./module_13/section_13_5.md)
 
-### [Module 14: Cloud Infrastructure and Deployment](./module_14/module_14_intro.md)
+### [Module 14: Cloud Infrastructure and Automation](./module_14/module_14_intro.md)
 - [14.1. Cloud Providers: AWS, Azure, GCP](./module_14/section_14_1.md)
 - [14.2. Infrastructure as Code (IaC)](./module_14/section_14_2.md)
 - [14.3. Continuous Integration/Continuous Deployment (CI/CD)](./module_14/section_14_3.md)
